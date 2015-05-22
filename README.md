@@ -1,7 +1,7 @@
 # A Glorious Highcharts Example
 
-![](http://i.imgur.com/0W1x66f.png)
+![](http://i.imgur.com/MstTeKe.png)
 
 It might seem like your average highcharts chart of Guardian/ICM polls from the 1980s to today, but **hover over it** and it becomes something ***evil***.
 
-( What's more evil is the code, though... `¯\_(ツ)_/¯` )
+(What's more evil is the code, though... `¯\_(ツ)_/¯`)
