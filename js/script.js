@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('.leader').height($(window).height() / 2)
-  $.getJSON('http://cdn.rawgit.com/ejb/highcharts-tutorial/master/data/poll-data.json', function(data){
+  $.getJSON('https://raw.githubusercontent.com/ejb/highcharts-tutorial/master/data/poll-data.json', function(data){
     var highchartsFormat = [
       {
         name: "Conservatives",
